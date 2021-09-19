@@ -1,0 +1,47 @@
+.header {
+    text-align: center;
+    padding: 10px;
+}
+* {
+    box-sizing: border-box;
+}
+.row {
+    text-align: center;
+    float: left;
+    height: 50vh;
+    width: 100%;
+}
+.projRow {
+    height: 30vh;
+    padding: 10px;
+}
+.thirdCol {
+    text-align: center;
+    float: left;
+    width: 33.333%;
+    padding: 10px;
+}
+.halfCol {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+/* .linedtext {
+    text-decoration: line-through;
+} */
+img {
+    height: 20vh;
+}
+/* .leftCol {
+    text-align: center;
+    float: left;
+    width: 50%;
+    padding: 10px;
+}
+.rightCol {
+    text-align: center;
+    float: right;
+    width: 50%;
+    padding: 10px;
+} */

@@ -1,3 +1,11 @@
+.div {
+    font-size: large;
+}
+.body {
+    font-size: large;
+    color: white;
+    background-color: black;
+}
 .myHead {
     height: 100%;
     width: 100%;

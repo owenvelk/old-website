@@ -2,7 +2,25 @@ body {
     font-size: x-large;
     font-family: 'Roboto', sans-serif;
     color: white;
-    background-color: black;
+    background-color: #252629;
+}
+h1 {
+    padding: 20px;
+}
+h2{
+    padding: 20px;
+}
+img {
+    height: 30vh;
+}
+a:link {
+    color: darkgray;
+}
+a:visited {
+    color: darkgray;
+}
+a:hover {
+    color: lightgoldenrodyellow;
 }
 .myHead {
     height: 100vh;
@@ -20,7 +38,8 @@ body {
     width: 100%;
 }
 .projRow {
-    height: 30vh;
+    height: 40%;
+    width: 100%
     padding: 10px;
 }
 .thirdCol {
@@ -35,8 +54,11 @@ body {
     width: 50%;
     padding: 10px;
 }
-img {
-    height: 20vh;
+.footer {
+    text-align: center;
+    float: left;
+    height: 25%;
+    width: 100%;
 }
 /* .leftCol {
     text-align: center;
